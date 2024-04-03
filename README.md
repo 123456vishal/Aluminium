@@ -8,6 +8,3 @@ This project is a web application for aluminum engineering, built using JSP and 
 - Utilizes JSP for dynamic web page generation and Servlets to handle server-side logic.
 - Incorporates HTML for structuring web pages, CSS for styling, and JavaScript for client-side interactivity.
 
-## Setup
-
-1. git clone https://github.com/123456vishal/aluminum.git
